@@ -323,8 +323,8 @@ Wire Wire Line
 	7100 1800 7100 1900
 Wire Wire Line
 	7100 1400 7100 1500
-Text Notes 950  1700 0    50   ~ 0
-Assumption:\n\n+5V is supply from MCU side,\nV_EXT_LED is from LED side.
+Text Notes 900  2950 0    50   ~ 0
+LEGEND:\n\n+5V:  5V supply from MCU side,\nV_EXT_LED: 5V power supply from LED strap(if possible)\n\nVDD: joined power supply to LED strap\n
 $Comp
 L Connector_Generic:Conn_01x03 J1
 U 1 1 5BBA1AB9
