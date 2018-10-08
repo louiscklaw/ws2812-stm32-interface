@@ -2,7 +2,7 @@
 <export version="D">
   <design>
     <source>/home/logic/_workspace/kicad/ws2812-stm32-interface/ws2812-stm32-interface.sch</source>
-    <date>Mon Oct  8 01:45:27 2018</date>
+    <date>Mon Oct  8 14:46:36 2018</date>
     <tool>Eeschema 5.0.0-fee4fd1~66~ubuntu18.04.1</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
