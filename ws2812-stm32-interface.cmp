@@ -1,0 +1,651 @@
+Cmp-Mod V01 Created by PcbNew   date = Wed 10 Oct 2018 06:52:01 PM HKT
+
+BeginCmp
+TimeStamp = 5BBA6029
+Path = /5BBB5A73/5BBB6DAB
+Reference = D7;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA61F7
+Path = /5BBB5A73/5BBBD4A4
+Reference = D23;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA61E2
+Path = /5BBB5A73/5BBB6007
+Reference = D2;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA61CD
+Path = /5BBB5A73/5BBBD480
+Reference = D17;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA61B8
+Path = /5BBB5A73/5BBBD486
+Reference = D18;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA61A3
+Path = /5BBB5A73/5BBBD48C
+Reference = D19;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA618E
+Path = /5BBB5A73/5BBBD492
+Reference = D20;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA6179
+Path = /5BBB5A73/5BBBD498
+Reference = D21;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA6164
+Path = /5BBB5A73/5BBBD49E
+Reference = D22;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA614F
+Path = /5BBB5A73/5BBBD4AA
+Reference = D24;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA613A
+Path = /5BBB5A73/5BBC37F5
+Reference = D25;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA6125
+Path = /5BBB5A73/5BBC37FB
+Reference = D26;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA6110
+Path = /5BBB5A73/5BBC3801
+Reference = D27;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA60FB
+Path = /5BBB5A73/5BBC3807
+Reference = D28;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA60E6
+Path = /5BBB5A73/5BBC380D
+Reference = D29;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA60D1
+Path = /5BBB5A73/5BBC381F
+Reference = D32;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA60BC
+Path = /5BBB5A73/5BBBC8B5
+Reference = D15;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA60A7
+Path = /5BBB5A73/5BBBC8BB
+Reference = D16;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA607D
+Path = /5BBB5A73/5BBB69A2
+Reference = D3;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA6068
+Path = /5BBB5A73/5BBB6A06
+Reference = D4;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA6053
+Path = /5BBB5A73/5BBB6D9F
+Reference = D5;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA84D6
+Path = /5BBB5A73/5BBB6DA5
+Reference = D6;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA6014
+Path = /5BBB5A73/5BBB6DB1
+Reference = D8;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5FFF
+Path = /5BBB5A73/5BBBC891
+Reference = D9;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5FEA
+Path = /5BBB5A73/5BBBC897
+Reference = D10;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAC7E6
+Path = /5BBB5A73/5BBBC89D
+Reference = D11;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5FC0
+Path = /5BBB5A73/5BBBC8A3
+Reference = D12;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5FAB
+Path = /5BBB5A73/5BBBC8A9
+Reference = D13;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5F96
+Path = /5BBB5A73/5BC06602
+Reference = D64;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5F81
+Path = /5BBB5A73/5BBBC8AF
+Reference = D14;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5F6C
+Path = /5BBB5A73/5BBC3813
+Reference = D30;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5F57
+Path = /5BBB5A73/5BC06555
+Reference = D55;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAD5D7
+Path = /5BBB5A73/5BC063E9
+Reference = D34;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5F2D
+Path = /5BBB5A73/5BC06531
+Reference = D49;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5F18
+Path = /5BBB5A73/5BC06537
+Reference = D50;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5F03
+Path = /5BBB5A73/5BC0653D
+Reference = D51;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5EEE
+Path = /5BBB5A73/5BC06543
+Reference = D52;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5ED9
+Path = /5BBB5A73/5BC06549
+Reference = D53;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5EC4
+Path = /5BBB5A73/5BC0654F
+Reference = D54;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5EAF
+Path = /5BBB5A73/5BC0655B
+Reference = D56;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5E9A
+Path = /5BBB5A73/5BC065D8
+Reference = D57;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5E85
+Path = /5BBB5A73/5BC065DE
+Reference = D58;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5E70
+Path = /5BBB5A73/5BC065E4
+Reference = D59;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5E5B
+Path = /5BBB5A73/5BC065EA
+Reference = D60;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5E46
+Path = /5BBB5A73/5BC065F0
+Reference = D61;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5E31
+Path = /5BBB5A73/5BC065FC
+Reference = D63;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5E1C
+Path = /5BBB5A73/5BBC3819
+Reference = D31;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5E07
+Path = /5BBB5A73/5BC064AE
+Reference = D47;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAF27A
+Path = /5BBB5A73/5BC064B4
+Reference = D48;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5DDD
+Path = /5BBB5A73/5BC063E3
+Reference = D33;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5DC8
+Path = /5BBB5A73/5BC064A8
+Reference = D46;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAEF0C
+Path = /5BBB5A73/5BC064A2
+Reference = D45;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5D9E
+Path = /5BBB5A73/5BC0649C
+Reference = D44;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5D89
+Path = /5BBB5A73/5BC06496
+Reference = D43;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5D74
+Path = /5BBB5A73/5BC06490
+Reference = D42;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5D5F
+Path = /5BBB5A73/5BC0648A
+Reference = D41;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAD6CA
+Path = /5BBB5A73/5BC0640D
+Reference = D40;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAD68B
+Path = /5BBB5A73/5BC06407
+Reference = D39;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAD706
+Path = /5BBB5A73/5BC06401
+Reference = D38;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAD742
+Path = /5BBB5A73/5BC063FB
+Reference = D37;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAD613
+Path = /5BBB5A73/5BC063F5
+Reference = D36;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA5CE1
+Path = /5BBB5A73/5BC065F6
+Reference = D62;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAD64F
+Path = /5BBB5A73/5BC063EF
+Reference = D35;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBA6092
+Path = /5BBB5A73/5BBB5E64
+Reference = D1;
+ValeurCmp = WS2812B;
+IdModule  = footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAB3D0
+Path = /5BBA2A9D
+Reference = J2;
+ValeurCmp = Conn_01x03;
+IdModule  = w_conn_screw:mstbva_2,5-4-g-5,08;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAB1D2
+Path = /5BBA6D41
+Reference = LD_O1;
+ValeurCmp = ORANGE;
+IdModule  = LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAB2A1
+Path = /5BBA804C
+Reference = LD_G1;
+ValeurCmp = GREEN;
+IdModule  = LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAB4D4
+Path = /5BBA6CAF
+Reference = R2;
+ValeurCmp = 104;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAB267
+Path = /5BBA8046
+Reference = R1;
+ValeurCmp = 104;
+IdModule  = Resistor_SMD:R_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBB4CBF
+Path = /5BBF8B07
+Reference = J3;
+ValeurCmp = WS2812_DEST;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBB4CA8
+Path = /5BC4F51E
+Reference = J4;
+ValeurCmp = WS2812_SOURCE;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBBEDB
+Path = /5BC5404E
+Reference = JP1;
+ValeurCmp = Jumper_NC_Dual;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAB345
+Path = /5BBA1AB9
+Reference = J1;
+ValeurCmp = Conn_01x03;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAB493
+Path = /5BB9DE86
+Reference = U1;
+ValeurCmp = 74AHCT1G125;
+IdModule  = Package_TO_SOT_SMD:SOT-23-5_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAB21B
+Path = /5BB9E8D3
+Reference = ZD2;
+ValeurCmp = MBR120;
+IdModule  = Diode_SMD:D_SOD-123F;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAB149
+Path = /5BB9E84F
+Reference = ZD1;
+ValeurCmp = MBR120;
+IdModule  = Diode_SMD:D_SOD-123F;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAB198
+Path = /5BB9F4C9
+Reference = C5;
+ValeurCmp = 10u;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAB381
+Path = /5BB9F2D7
+Reference = C4;
+ValeurCmp = 10u;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAB30C
+Path = /5BB9F2C2
+Reference = C3;
+ValeurCmp = 10u;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAB40E
+Path = /5BB9F152
+Reference = C2;
+ValeurCmp = 10u;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBAB2D9
+Path = /5BB9EE7F
+Reference = C1;
+ValeurCmp = 10u;
+IdModule  = Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder;
+EndCmp
+
+EndListe
