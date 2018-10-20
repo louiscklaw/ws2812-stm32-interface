@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew 5.0.0-fee4fd1~66~ubuntu18.04.1)
+(kicad_pcb (version 20171130) (host pcbnew 5.0.1-33cea8e~67~ubuntu18.04.1)
 
   (general
     (thickness 1.6)
@@ -58,6 +58,7 @@
     (pad_size 1.524 1.524)
     (pad_drill 0.762)
     (pad_to_mask_clearance 0.2)
+    (solder_mask_min_width 0.25)
     (aux_axis_origin 0 0)
     (visible_elements FFFFFF7F)
     (pcbplotparams
@@ -293,7 +294,7 @@
     (add_net V_EXT_LED)
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA6029)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA6029)
     (at 99.241426 20.828 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -335,11 +336,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA61F7)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA61F7)
     (at 99.241426 38.68057 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -381,11 +382,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA61E2)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA61E2)
     (at 53.158571 20.828 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -427,11 +428,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA61CD)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA61CD)
     (at 43.942 38.68057 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -473,11 +474,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA61B8)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA61B8)
     (at 53.158571 38.68057 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -519,11 +520,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA61A3)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA61A3)
     (at 62.375142 38.68057 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -565,11 +566,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA618E)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA618E)
     (at 71.591713 38.68057 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -611,11 +612,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA6179)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA6179)
     (at 80.808284 38.68057 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -657,11 +658,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA6164)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA6164)
     (at 90.024855 38.68057 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -703,11 +704,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA614F)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA614F)
     (at 108.458 38.68057 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -749,11 +750,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA613A)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA613A)
     (at 43.942 47.606855 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -795,11 +796,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA6125)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA6125)
     (at 53.158571 47.606855 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -841,11 +842,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA6110)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA6110)
     (at 62.375142 47.606855 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -887,11 +888,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA60FB)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA60FB)
     (at 71.591713 47.606855 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -933,11 +934,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA60E6)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA60E6)
     (at 80.808284 47.606855 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -979,11 +980,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA60D1)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA60D1)
     (at 108.458 47.606855 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -1025,11 +1026,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA60BC)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA60BC)
     (at 99.241426 29.754285 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -1071,11 +1072,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA60A7)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA60A7)
     (at 108.458 29.754285 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -1117,11 +1118,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA607D)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA607D)
     (at 62.375142 20.828 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -1163,11 +1164,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA6068)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA6068)
     (at 71.591713 20.828 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -1209,11 +1210,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA6053)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA6053)
     (at 80.808284 20.828 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -1255,11 +1256,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA84D6)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA84D6)
     (at 90.024855 20.828 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -1301,11 +1302,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA6014)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA6014)
     (at 108.458 20.828 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -1347,11 +1348,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5FFF)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5FFF)
     (at 43.942 29.754285 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -1393,11 +1394,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5FEA)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5FEA)
     (at 53.158571 29.754285 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -1439,11 +1440,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBAC7E6)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBAC7E6)
     (at 62.375142 29.754285 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -1485,11 +1486,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5FC0)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5FC0)
     (at 71.591713 29.754285 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -1531,11 +1532,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5FAB)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5FAB)
     (at 80.808284 29.754285 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -1577,11 +1578,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5F96)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5F96)
     (at 108.458 83.312 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -1623,11 +1624,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5F81)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5F81)
     (at 90.024855 29.754285 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -1669,11 +1670,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5F6C)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5F6C)
     (at 90.024855 47.606855 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -1715,11 +1716,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5F57)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5F57)
     (at 99.241426 74.38571 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -1761,11 +1762,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBAD5D7)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBAD5D7)
     (at 53.158571 56.53314 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -1807,11 +1808,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5F2D)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5F2D)
     (at 43.942 74.38571 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -1853,11 +1854,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5F18)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5F18)
     (at 53.158571 74.38571 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -1899,11 +1900,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5F03)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5F03)
     (at 62.375142 74.38571 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -1945,11 +1946,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5EEE)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5EEE)
     (at 71.591713 74.38571 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -1991,11 +1992,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5ED9)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5ED9)
     (at 80.808284 74.38571 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -2037,11 +2038,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5EC4)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5EC4)
     (at 90.024855 74.38571 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -2083,11 +2084,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5EAF)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5EAF)
     (at 108.458 74.38571 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -2129,11 +2130,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5E9A)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5E9A)
     (at 43.942 83.312 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -2175,11 +2176,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5E85)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5E85)
     (at 53.158571 83.312 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -2221,11 +2222,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5E70)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5E70)
     (at 62.375142 83.312 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -2267,11 +2268,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5E5B)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5E5B)
     (at 71.591713 83.312 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -2313,11 +2314,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5E46)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5E46)
     (at 80.808284 83.312 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -2359,11 +2360,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5E31)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5E31)
     (at 99.241426 83.312 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -2405,11 +2406,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5E1C)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5E1C)
     (at 99.241426 47.606855 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -2451,11 +2452,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5E07)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5E07)
     (at 99.241426 65.459425 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -2497,11 +2498,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBAF27A)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBAF27A)
     (at 108.458 65.459425 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -2543,11 +2544,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5DDD)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5DDD)
     (at 43.942 56.53314 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -2589,11 +2590,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5DC8)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5DC8)
     (at 90.024855 65.459425 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -2635,11 +2636,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBAEF0C)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBAEF0C)
     (at 80.808284 65.459425 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -2681,11 +2682,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5D9E)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5D9E)
     (at 71.591713 65.459425 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -2727,11 +2728,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5D89)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5D89)
     (at 62.375142 65.459425 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -2773,11 +2774,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5D74)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5D74)
     (at 53.158571 65.459425 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -2819,11 +2820,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5D5F)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5D5F)
     (at 43.942 65.459425 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -2865,11 +2866,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBAD6CA)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBAD6CA)
     (at 108.458 56.53314 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -2911,11 +2912,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBAD68B)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBAD68B)
     (at 99.241426 56.53314 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -2957,11 +2958,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBAD706)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBAD706)
     (at 90.024855 56.53314 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -3003,11 +3004,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBAD742)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBAD742)
     (at 80.808284 56.53314 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -3049,11 +3050,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBAD613)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBAD613)
     (at 71.591713 56.53314 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -3095,11 +3096,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA5CE1)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA5CE1)
     (at 90.024855 83.312 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -3141,11 +3142,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBAD64F)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBAD64F)
     (at 62.375142 56.53314 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -3187,11 +3188,11 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
-  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BBDD939) (tstamp 5BBA6092)
+  (module footprint-lib:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm locked (layer F.Cu) (tedit 5BCB15DF) (tstamp 5BBA6092)
     (at 43.942 20.828 180)
     (descr https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf)
     (tags "LED RGB NeoPixel")
@@ -3233,7 +3234,7 @@
     (model /home/logic/_workspace/kicad/kicad_library/Tinkerforge-kicad-libraries/3d/LED_SMD/WS2812W_5050.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 0))
+      (rotate (xyz 0 0 -90))
     )
   )
 
